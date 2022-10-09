@@ -166,6 +166,9 @@ Animex é o projeto de um fórum que une pessoas com interesses comuns em comuni
 <img src="https://i.imgur.com/SnHAJCh.png" alt="drawing" height="400"/>
 
 Estude Mais é um aplicativo desenvolvido para Android que auxilia no processo de aprendizado através de uma abordagem gamificada e fornecendo mecanismos de organização. Tanto os alunos quanto os professores possuem uma interface própria para suprir suas necessidades, esta que fornece um gerenciamento de cursos, atividades e alunos, dependendo do tipo de usuário
-</div>
+
+  <br><br><br>
 
 **Contato:** jefferson_rodrigues7@hotmail.com
+  
+  </div>
