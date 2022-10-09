@@ -2,6 +2,8 @@
 
 Apaixonado por tecnologia, atualmente tenho aprimorado minhas habilidades em desenvolvimento para Web e Jogos. Moro em Santo André - SP e estudo na Universidade Federal do ABC. Gosto muito de jogos, desenhos e quadrinhos. Sou bastante dedicado e apaixonado pelo que faço.
 
+**Contato:** jefferson_rodrigues7@hotmail.com
+
 ## Habilidades
 <div align="center">
 
@@ -169,6 +171,6 @@ Estude Mais é um aplicativo desenvolvido para Android que auxilia no processo d
 
   <br><br><br>
 
-**Contato:** jefferson_rodrigues7@hotmail.com
+
   
   </div>
