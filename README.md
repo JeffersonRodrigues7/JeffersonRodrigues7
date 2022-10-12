@@ -3,6 +3,7 @@
 Apaixonado por tecnologia, atualmente tenho aprimorado minhas habilidades em desenvolvimento para Web e Jogos. Moro em Santo André - SP e estudo na Universidade Federal do ABC. Gosto muito de jogos, desenhos e quadrinhos. Sou bastante dedicado e apaixonado pelo que faço.
 
 **Contato:** jefferson_rodrigues7@hotmail.com
+
 **Portifólio:** https://jeffersonrodrigues7.github.io/portifolio/
 
 ## Habilidades
