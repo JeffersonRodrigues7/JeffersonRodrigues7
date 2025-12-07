@@ -4,7 +4,7 @@ Sou Desenvolvedor de Jogos com formação em Ciência da Computação pela UFABC
 
 Atualmente atuo como Game Developer utilizando Unity e C#, desenvolvendo sistemas, mecânicas e experiências focadas em jogabilidade, performance e boa arquitetura de código. Tenho interesse especial por programação orientada a objetos, organização de projetos, escalabilidade e experiência do usuário.
 
-Minha trajetória inclui atuação como Analista no Itaú (2019–2020), onde trabalhei com análise, correção e evolução de sistemas, além de experiências acadêmicas como monitor de disciplinas da computação, o que fortaleceu minha base técnica e comunicativa.
+Minha trajetória inclui atuação como Analista no Itaú, onde trabalhei com análise, correção e evolução de sistemas, além de experiências acadêmicas como monitor de disciplinas da computação, o que fortaleceu minha base técnica e comunicativa.
 
 Sou um profissional curioso, adaptável e sempre disposto a aprender novas tecnologias, linguagens e metodologias.
 
