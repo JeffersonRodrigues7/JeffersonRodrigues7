@@ -161,7 +161,7 @@ Apaixonado por tecnologia, jogos e pelo aprendizado contínuo.
 
 ### Trailer Oficial do Jogo
 
-[![Assista ao Trailer - Teryndor: Caelorn's Quest](https://img.youtube.com/vi/RyKVCAIaJx8/maxresdefault.jpg)](https://www.youtube.com/watch?v=RyKVCAIaJx8 "Clique para assistir ao trailer no YouTube")
+[![Assista ao Trailer](https://img.youtube.com/vi/RyKVCAIaJx8/0.jpg)](https://www.youtube.com/watch?v=RyKVCAIaJx8 "Campo de Batalha - Trailer Oficial")
 
 *Clique na imagem para assistir ao trailer no YouTube*
 
