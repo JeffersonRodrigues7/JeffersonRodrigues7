@@ -159,7 +159,7 @@ Apaixonado por tecnologia, jogos e pelo aprendizado contínuo.
 
 <img src="https://i.imgur.com/jdJJ4YB.png" alt="drawing" height="400"/>
 
-Um jogo de ação e estratégia (Tower Defense) desenvolvido em C# utilizando a Unity Engine.
+Um jogo de ação e estratégia (Tower Defense) desenvolvido em C# utilizando a Unity Engine, que será lançado na Steam.
 
 🎮 Sobre o Jogo:
 O reino de Teryndor está à beira do colapso. Como o Príncipe Caelorn, você deve defender os vitais Cristais Protetores de hordas de criaturas que buscam a destruição total. Combine habilidades de combate corpo a corpo com estratégias defensivas para sobreviver a ondas cada vez mais desafiadoras e salvar seu legado.
@@ -183,8 +183,9 @@ Campo de Batalha é um jogo que se passa em um torneio homônimo, onde cinco gue
 
 <img src="https://i.imgur.com/NqW3M7I.png" alt="drawing" height="400"/>
 
+Um site de fórum desenvolvido com Typescript, NodeJS, MySQL & Sequelize, React, HTML & CSS e Bootstrap.
 
-
+💻 Sobre o Site:
 Animex é um fórum que reúne pessoas com interesses comuns em comunidades temáticas. A inspiração principal vem das antigas comunidades do Orkut. Utilizando ferramentas modernas de desenvolvimento web, o objetivo é criar um site seguro, rápido, funcional, atrativo e responsivo.
 
 <br><br>
@@ -193,6 +194,9 @@ Animex é um fórum que reúne pessoas com interesses comuns em comunidades tem�
 
 <img src="https://i.imgur.com/SnHAJCh.png" alt="drawing" height="400"/>
 
+Um aplicativo desenvolvido para Android utilizando Android Studio & Kotlin.
+
+💻 Sobre o Aplicativo.
 Estude Mais é um aplicativo Android desenvolvido para auxiliar no processo de aprendizagem através de uma abordagem gamificada e mecanismos de organização. Tanto alunos quanto professores têm interfaces personalizadas para gerenciar cursos, atividades e usuários de acordo com suas necessidades.
 
   <br><br><br>
