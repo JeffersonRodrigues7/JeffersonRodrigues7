@@ -157,18 +157,7 @@ Apaixonado por tecnologia, jogos e pelo aprendizado contínuo.
 
 [Teryndor: Caelorn’s Quest](https://store.steampowered.com/app/4055700/Teryndor_Caelorns_Quest/)
 
-<div align="center">
-  <h2>🎮 Trailer Oficial</h2>
-  <iframe 
-    width="560" 
-    height="315" 
-    src="https://www.youtube.com/embed/RyKVCAIaJx8" 
-    title="Trailer do Campo de Batalha" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-</div>
+[![Assista ao Trailer](https://img.youtube.com/vi/RyKVCAIaJx8/0.jpg)](https://www.youtube.com/watch?v=RyKVCAIaJx8 "Campo de Batalha - Trailer Oficial")
 
 Um jogo de ação e estratégia (Tower Defense) desenvolvido em C# utilizando a Unity Engine, que será lançado na Steam.
 
