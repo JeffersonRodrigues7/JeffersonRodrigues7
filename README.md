@@ -1,6 +1,14 @@
 ![Wallpaper](https://i.imgur.com/xyI3Vjt.png)
 
-Apaixonado por tecnologia, atualmente tenho aprimorado minhas habilidades em desenvolvimento para Web e Jogos. Moro em Santo André - SP e estudo na Universidade Federal do ABC. Gosto muito de jogos, desenhos e quadrinhos. Sou bastante dedicado e apaixonado pelo que faço.
+Sou Desenvolvedor de Jogos com formação em Ciência da Computação pela UFABC, com base técnica em Mecatrônica pelo SENAI e experiência também nas áreas de desenvolvimento web e mobile.
+
+Atualmente atuo como Game Developer utilizando Unity e C#, desenvolvendo sistemas, mecânicas e experiências focadas em jogabilidade, performance e boa arquitetura de código. Tenho interesse especial por programação orientada a objetos, organização de projetos, escalabilidade e experiência do usuário.
+
+Minha trajetória inclui atuação como Analista no Itaú (2019–2020), onde trabalhei com análise, correção e evolução de sistemas, além de experiências acadêmicas como monitor de disciplinas da computação, o que fortaleceu minha base técnica e comunicativa.
+
+Sou um profissional curioso, adaptável e sempre disposto a aprender novas tecnologias, linguagens e metodologias.
+
+Apaixonado por tecnologia, jogos e pelo aprendizado contínuo.
 
 **Contato:** jefferson_rodrigues7@hotmail.com
 
