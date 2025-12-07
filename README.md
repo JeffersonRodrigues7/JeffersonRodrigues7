@@ -151,36 +151,18 @@ Apaixonado por tecnologia, jogos e pelo aprendizado contínuo.
 <br>
 </div>
 
-## Projetos Principais
-
 <div align="center">
+Campo de Batalha
+<img src="https://i.imgur.com/Hi3O1j8.png" alt="Captura de tela do jogo Campo de Batalha" height="400"/>
+Campo de Batalha é um jogo que se passa em um torneio homônimo, onde cinco guerreiros destemidos aceitam o desafio de participar de uma competição por uma vaga na Guarda Real. A cada fase, uma habilidade específica é testada, e o guerreiro com o pior desempenho em cada rodada é eliminado.
 
-[Campo de Batalha](https://github.com/JeffersonRodrigues7/CampoDeBatalha)
-
-<img src="https://i.imgur.com/Hi3O1j8.png" alt="drawing" height="400"/>
-
-
-Campo de Batalha é um jogo que se passa em um torneio chamado “Campo de Batalha”, onde 5 guerreiros destemidos aceitam o desafio de participar de uma batalha para concorrer por um lugar na Guarda Real. A cada fase do torneio uma habilidade especifica será testada, o guerreiro com o pior desempenho em cada rodada será eliminado.
-
-<br><br>
-
-[Animex](https://github.com/JeffersonRodrigues7/Animex)
-
-<img src="https://i.imgur.com/NqW3M7I.png" alt="drawing" height="400"/>
+Animex
+<img src="https://i.imgur.com/NqW3M7I.png" alt="Captura de tela do fórum Animex" height="400"/>
+Animex é um fórum que reúne pessoas com interesses comuns em comunidades temáticas. A inspiração principal vem das antigas comunidades do Orkut. Utilizando ferramentas modernas de desenvolvimento web, o objetivo é criar um site seguro, rápido, funcional, atrativo e responsivo.
 
 
-Animex é o projeto de um fórum que une pessoas com interesses comuns em comunidades, a ideia advém principalmente das comunidades do falecido Orkut. Utilizando ferramentas de desenvolvimento web têm-se o objetivo de criar um site seguro, rápido, funcional, atrativo e responsivo.
+Estude Mais
+<img src="https://i.imgur.com/SnHAJCh.png" alt="Captura de tela do app Estude Mais" height="400"/>
+Estude Mais é um aplicativo Android desenvolvido para auxiliar no processo de aprendizagem através de uma abordagem gamificada e mecanismos de organização. Tanto alunos quanto professores têm interfaces personalizadas para gerenciar cursos, atividades e usuários de acordo com suas necessidades.
 
-<br><br>
-
-[Estude-Mais](https://github.com/JeffersonRodrigues7/Estude-Mais)
-
-<img src="https://i.imgur.com/SnHAJCh.png" alt="drawing" height="400"/>
-
-Estude Mais é um aplicativo desenvolvido para Android que auxilia no processo de aprendizado através de uma abordagem gamificada e fornecendo mecanismos de organização. Tanto os alunos quanto os professores possuem uma interface própria para suprir suas necessidades, esta que fornece um gerenciamento de cursos, atividades e alunos, dependendo do tipo de usuário
-
-  <br><br><br>
-
-
-  
-  </div>
+</div>
