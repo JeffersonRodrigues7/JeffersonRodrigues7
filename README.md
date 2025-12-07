@@ -157,7 +157,7 @@ Apaixonado por tecnologia, jogos e pelo aprendizado contínuo.
 
 [Teryndor: Caelorn’s Quest](https://store.steampowered.com/app/4055700/Teryndor_Caelorns_Quest/)
 
-<img src="https://i.imgur.com/jdJJ4YB.png" alt="drawing" height="400"/>
+<img src="https://i.imgur.com/bH5WxiJ.png" alt="drawing" height="400"/>
 
 Um jogo de ação e estratégia (Tower Defense) desenvolvido em C# utilizando a Unity Engine, que será lançado na Steam.
 
