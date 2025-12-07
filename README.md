@@ -161,17 +161,7 @@ Apaixonado por tecnologia, jogos e pelo aprendizado contínuo.
 
 ### Trailer Oficial do Jogo
 
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube.com/embed/RyKVCAIaJx8" 
-  title="Campo de Batalha - Trailer Oficial" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen>
-</iframe>
-
-*Assista ao trailer completo no YouTube*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RyKVCAIaJx8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
