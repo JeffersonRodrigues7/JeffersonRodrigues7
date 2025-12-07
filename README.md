@@ -151,18 +151,52 @@ Apaixonado por tecnologia, jogos e pelo aprendizado contínuo.
 <br>
 </div>
 
+## Alguns Projetos Próprios
+
 <div align="center">
-Campo de Batalha
-<img src="https://i.imgur.com/Hi3O1j8.png" alt="Captura de tela do jogo Campo de Batalha" height="400"/>
+
+[Teryndor: Caelorn’s Quest](https://store.steampowered.com/app/4055700/Teryndor_Caelorns_Quest/)
+
+<img src="https://i.imgur.com/jdJJ4YB.png" alt="drawing" height="400"/>
+
+Um jogo de ação e estratégia (Tower Defense) desenvolvido em C# utilizando a Unity Engine.
+
+🎮 Sobre o Jogo:
+O reino de Teryndor está à beira do colapso. Como o Príncipe Caelorn, você deve defender os vitais Cristais Protetores de hordas de criaturas que buscam a destruição total. Combine habilidades de combate corpo a corpo com estratégias defensivas para sobreviver a ondas cada vez mais desafiadoras e salvar seu legado.
+
+<br><br>
+
+<div align="center">
+
+[Campo de Batalha](https://github.com/JeffersonRodrigues7/CampoDeBatalha)
+
+<img src="https://i.imgur.com/Hi3O1j8.png" alt="drawing" height="400"/>
+
+Um jogo de ação desenvolvido em C# utilizando a Unity Engine.
+
+🎮 Sobre o Jogo:
 Campo de Batalha é um jogo que se passa em um torneio homônimo, onde cinco guerreiros destemidos aceitam o desafio de participar de uma competição por uma vaga na Guarda Real. A cada fase, uma habilidade específica é testada, e o guerreiro com o pior desempenho em cada rodada é eliminado.
 
-Animex
-<img src="https://i.imgur.com/NqW3M7I.png" alt="Captura de tela do fórum Animex" height="400"/>
+<br><br>
+
+[Animex](https://github.com/JeffersonRodrigues7/Animex)
+
+<img src="https://i.imgur.com/NqW3M7I.png" alt="drawing" height="400"/>
+
+
+
 Animex é um fórum que reúne pessoas com interesses comuns em comunidades temáticas. A inspiração principal vem das antigas comunidades do Orkut. Utilizando ferramentas modernas de desenvolvimento web, o objetivo é criar um site seguro, rápido, funcional, atrativo e responsivo.
 
+<br><br>
 
-Estude Mais
-<img src="https://i.imgur.com/SnHAJCh.png" alt="Captura de tela do app Estude Mais" height="400"/>
+[Estude-Mais](https://github.com/JeffersonRodrigues7/Estude-Mais)
+
+<img src="https://i.imgur.com/SnHAJCh.png" alt="drawing" height="400"/>
+
 Estude Mais é um aplicativo Android desenvolvido para auxiliar no processo de aprendizagem através de uma abordagem gamificada e mecanismos de organização. Tanto alunos quanto professores têm interfaces personalizadas para gerenciar cursos, atividades e usuários de acordo com suas necessidades.
 
-</div>
+  <br><br><br>
+
+
+  
+  </div>
