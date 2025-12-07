@@ -9,6 +9,21 @@ Apaixonado por tecnologia, atualmente tenho aprimorado minhas habilidades em des
 ## Habilidades
 <div align="center">
 
+**Desenvolvimento de Jogos**
+
+
+  <img
+    src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"
+    alt="Unity"
+  />
+    <img
+    src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"
+    alt="C#"
+  />
+
+
+<br>
+
 **Desenvolvimento Web**
 
   <img
@@ -63,21 +78,6 @@ Apaixonado por tecnologia, atualmente tenho aprimorado minhas habilidades em des
     src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"
     alt="Json Web Tokens"
   />
-
-<br>
-
-**Desenvolvimento de Jogos**
-
-
-  <img
-    src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"
-    alt="Unity"
-  />
-    <img
-    src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"
-    alt="C#"
-  />
-
 
 <br>
 
