@@ -1,4 +1,4 @@
-![Wallpaper](https://i.imgur.com/xyI3Vjt.png)
+![Wallpaper](https://i.imgur.com/73607UR.png)
 
 Sou Desenvolvedor de Jogos com formação em Ciência da Computação pela UFABC, com base técnica em Mecatrônica pelo SENAI e experiência também nas áreas de desenvolvimento web e mobile.
 
